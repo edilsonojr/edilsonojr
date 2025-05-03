@@ -3,7 +3,7 @@
 - 💼 Em busca de recolocação profissional
 - 📖 Estou estudando Python e Java
 - 👯 Tenho interesse em participar de projetos colaborativos
-- 📫 Contato: edilsonwise@gmail.com 
+- 📫 Contato: edilsonwise@gmail.com
 
                   
 
